@@ -1,9 +1,11 @@
-# 🛡️ Fan7a5ma-XSS
+# 🛡️ Fan7a5ma-XSS   
 Escáner automatizado para vulnerabilidades XSS
 
 #  XSS Scanner - Herramienta de detección de vulnerabilidades Cross-Site Scripting
 
 `Fan7a5ma-XSS` es una herramienta en Python diseñada para detectar vulnerabilidades de tipo **Cross-Site Scripting (XSS)** en aplicaciones web, mediante la inyección de payloads comunes. Ofrece un análisis automatizado.
+
+# Totalmente de uso libre, puedes modificar el codigo a tu gusto solo no realices cambios al banner 
 
 ## 📌 Características
 
